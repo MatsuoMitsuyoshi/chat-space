@@ -1,0 +1,15 @@
+current directory: /Users/mitsu/projects/chat-space/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/mitsu/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181216-7377-1vtjob5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mitsu/projects/chat-space/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/mitsu/projects/chat-space/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/mitsu/projects/chat-space/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20181216-7377-rixk4x/bindex
